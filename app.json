@@ -1,9 +1,9 @@
 {
-  "name":"Javes-3.0",
+  "name":"leaf prelaunch",
   "description": "Dont forget to read instructions on top of each box",
-  "logo": "https://telegra.ph/file/8e5138dfc400730a2396c.jpg",
-  "keywords": ["telegram","upgraded","moded","javes","userbot","javes-3.0"],
-  "repository": "https://github.com/Sh1vam/javes-3.0",
+  "logo": "https://telegra.ph/file/be378c6e56d709be819ba.jpg",
+  "keywords": ["telegram","upgraded","moded","leaf","userbot","leaf1.0"],
+  "repository": "https://github.com/coderparv/leafuserbot",
   "addons": [
     {
       "plan": "heroku-postgresql",
@@ -15,7 +15,7 @@
   "env": {
     "TG_API_KEY": {
       "description": "Get this value from my.telegram.org. Don't Steal May Your Account Get ban.[IMPORTANT]",
-      "value": "1696457"
+      "value": "2520823"
     },
     "MAX_FLOOD_IN_P_M_S": {
       "description": "For Pm Protect Warns ",
@@ -24,20 +24,20 @@
     },
     "PROFILE_PPP": {
       "description": "for your personal custom javes cmd",
-      "value": "https://telegra.ph/file/8e5138dfc400730a2396c.jpg",
+      "value": "https://telegra.ph/file/be378c6e56d709be819ba.jpg",
       "required": false
     },
     "TG_API_HASH": {
       "description": "Get this value from my.telegram.org. Don't Steal may Your Account Get ban.[IMPORTANT]",
-      "value": "db8992ae5fbf9b925273937b134f3407"
+      "value": "78608deefb0ea912dd8dad1aa104af79"
     },
     "TG_STRING_SESSION": {
-      "description": "Get this value by running [python3 string_session.py] in Termux or heroku[IMPORTANT]",
+      "description": "repl run",
       "value": ""
     },
     "HEROKU_APIKEY": {
       "description": "very important for !update command to make javes 3.0 up-to-date , get it from 'https://dashboard.heroku.com/account. see example below ",
-      "value": "fc8e5e3a-6c85-4185-8d17-046b7e5cbb9d"   
+      "value": "   
     },
     "HEROKU_APPNAME": {
       "description": "enter this app name again here, very important for !update command to make javes 3.0 up-to-date ",
@@ -55,17 +55,17 @@
     },
     "PROFILE_PP": {
       "description": "Your photo link for !autopic command and your own personal custom alive cmd",
-      "value": "https://telegra.ph/file/5d084db1197c6e7f0db59.jpg",
+      "value": "https://telegra.ph/file/be378c6e56d709be819ba.jpg",
       "required": false
     },
     "ALIVE_MEDIA2": {
       "description": "any media link for !bot cmd",
-      "value": "https://telegra.ph/file/b18ea7028b1cde8a0c573.mp4",
+      "value": "https://telegra.ph/file/6f50cbbb38e7895c6d0bf.mp4",
       "required": false
     },
     "ALIVE_MEDIA1": {
       "description": "any media link for !me cmd",
-      "value": "https://telegra.ph/file/ccc536e748881fbe6ac24.mp4",
+      "value": "https://telegra.ph/file/6f50cbbb38e7895c6d0bf.mp4",
 	  "required": false
     },
     "OPEN_WEATHER_MAP_APPID": {
@@ -90,12 +90,12 @@
     },
     "BOTLOG_CHATID": {
       "description": "Important for wark some plugins,bot logs , make super group with @missrose_bot then type /id to get this value",
-      "value": "-1001417703271",
+      "value": "",
       "required": true
     },
     "PMLOG_CHATID": {
       "description": "Important for work some plugins,like pm loging , make super group with @missrose_bot then type /id to get this value",
-      "value": "-1001159218396",
+      "value": "",
       "required": true
     },
     "CONSOLE_LOGGER_VERBOSE": {
@@ -220,7 +220,7 @@
     },
     "BOT_TOKEN": {
       "description": "Enter same value u entered in TG_BOT_TOKEN_BF_HER",
-      "value": "1330445306:AAGiAGqYEi-tDtZeHP36gi4P3BNvLk-Mc6Q",
+      "value": "",
       "required": true
     },
     "WAFU_CHATID": {
